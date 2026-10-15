@@ -29,7 +29,7 @@ sudo apt install build-essential cmake
 ```bash
 # Clone the repository
 git clone git@github.com:bmkrb436-web/ectool-for-linux.git
-cd my-first-project
+cd ectool-for-linux
 
 # Create a build directory and compile
 mkdir -p build && cd build
